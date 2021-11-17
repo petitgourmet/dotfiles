@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fengwei.yu@lewagon.org
+	name = Fengwei Yu
