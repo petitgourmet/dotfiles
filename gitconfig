@@ -50,5 +50,8 @@
 [pull]
   rebase = false
 [user]
-	email = jeremy.yu@outlook.fr
-	name = Fengwei YU
+	email = fengwei.yu@outlook.fr
+	name = Fengwei Yu
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
