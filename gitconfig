@@ -50,7 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = fengwei.yu@outlook.fr
+	email = fengwei.yu@lewagon.org
 	name = Fengwei Yu
 [credential "https://github.com"]
 	helper = 
